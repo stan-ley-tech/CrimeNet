@@ -1,0 +1,3 @@
+timestamp,device,lat,lon,route_id,source,type
+2024-10-01T08:00:00Z,DEV001,-1.2921,36.8219,R001,mobility,move
+2024-10-01T08:30:00Z,DEV001,-1.3000,36.8300,R001,mobility,move

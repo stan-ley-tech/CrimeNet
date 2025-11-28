@@ -1,0 +1,5 @@
+[
+  {"source":"financial","timestamp":"2024-10-01T10:00:00Z","type":"transfer","account":"ACC001","name":"John M."},
+  {"source":"telecom","timestamp":"2024-10-01T09:00:00Z","type":"call","phone":"+254700000001","name":"John M."},
+  {"source":"corporate","timestamp":"2024-09-20T12:00:00Z","type":"company","company_reg":"C-12345","name":"Wepesi Trading Ltd"}
+]

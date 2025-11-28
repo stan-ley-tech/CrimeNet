@@ -1,0 +1,58 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node
+node_modules/
+**/node_modules/
+
+# Dependency directories
+.bash_profile
+
+# Build output
+build/
+dist/
+**/build/
+**/dist/
+
+# Vite/Next/React etc
+.vite/
+.next/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data / secrets
+*.sqlite3
+*.db
+*.env.local
+*.env.*.local
+
+# Docker artifacts
+*.pid

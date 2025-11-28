@@ -1,0 +1,3 @@
+timestamp,account,amount,counterparty,source,type
+2024-10-01T10:00:00Z,ACC001,250.50,ACC099,financial,transfer
+2024-10-01T11:22:00Z,ACC002,15.00,ACC088,financial,transfer

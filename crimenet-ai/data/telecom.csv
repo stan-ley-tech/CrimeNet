@@ -1,0 +1,3 @@
+timestamp,phone,duration,cell_tower,source,type
+2024-10-01T09:00:00Z,+254700000001,120,CT-11,telecom,call
+2024-10-01T10:15:00Z,+254700000002,45,CT-12,telecom,call
